@@ -1,0 +1,15 @@
+World Monitor Obsidian CLI
+Copyright (c) 2026 Project Contributors
+SPDX-License-Identifier: AGPL-3.0-only
+
+This repository contains a standalone briefing integration, not a copy of the
+World Monitor application or its deployment credentials. It communicates with
+an independently configured World Monitor instance through its news API.
+
+Upstream project: https://github.com/koala73/worldmonitor
+World Monitor is licensed under AGPL-3.0-only. This integration is distributed
+under AGPL-3.0-only; see LICENSE. No upstream ownership is claimed.
+
+The public export contains source and synthetic tests only. Local reports,
+personal paths, host inventories, credentials and historical run data are
+outside the source tree and are not part of this distribution.

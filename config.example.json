@@ -1,0 +1,13 @@
+{
+  "vault": "D:/Notes/MyVault",
+  "folder": "World Monitor日报",
+  "base_url": "http://127.0.0.1:3000",
+  "model": "deepseek-flash",
+  "variants": ["full", "tech", "finance"],
+  "hour": "08:00",
+  "timezone": "Asia/Shanghai",
+  "max_articles": 60,
+  "per_publisher": 5,
+  "minimum_articles": 6,
+  "worldmonitor_dir": null
+}
